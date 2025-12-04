@@ -9,3 +9,6 @@ day2:
 
 day3:
 	nu day03/task.nu -n 12
+
+day4:
+	./day04/task.py
