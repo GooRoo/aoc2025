@@ -6,3 +6,4 @@
 |    2 | [SWI-Prolog](https://www.swi-prolog.org/) | [`task.pro`](day02/task.pro) | ⭐⭐    |
 |    3 | [Nushell](https://www.nushell.sh/)        | [`task.nu`](day03/task.nu)   | ⭐⭐    |
 |    4 | [Python](https://www.python.org/) 🤷🏻‍♂️       | [`task.py`](day04/task.py)   | ⭐⭐    |
+|    5 | [Haskell](https://www.haskell.org/)       | [`task.hs`](day05/task.hs)   | ⭐⭐    |

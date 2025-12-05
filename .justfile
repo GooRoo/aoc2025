@@ -12,3 +12,6 @@ day3:
 
 day4:
 	./day04/task.py
+
+day5:
+	./day05/task.hs day05/data/task.example
